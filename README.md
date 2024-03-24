@@ -18,14 +18,14 @@ We were able to answer the following questions from this analysis:
     3. What are the coldest and the warmest months on Mars (at the location of Curiosity)?
         On average, the third month is the coldest (down the -83 degrees Celsius) while the eighth month is the warmest (up to -68 degrees Celsius) on Mars.
 
-        <img src="temp.png">
+ <img src="images/temp.png">
 
     4. Which months have the lowest and the highest atmospheric pressure on Mars?
         On average, the sixth month has the lowest daily pressure (745 atm) while the ninth month has the highest daily pressure (913 atm) on Mars.
 
-        <img src="press.png">
+<img src="images/press.png">
 
     5. About how many terrestrial (Earth) days exist in a Martian year?
         The graph below shows the waves of daily minimum temperatures taken from Curiosity. A year on Mars could be measured from taking the distance from peak to peak, which appears to be about 675 days. 
 
-        <img src="waves.png">
+<img src="images/waves.png">
